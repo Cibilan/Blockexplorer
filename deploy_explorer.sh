@@ -73,7 +73,7 @@ function config(){
 	#configure explorer to connect to specific Blockchain network using given configuration
 	network_config_file=$(pwd)/config/config.json
 	#configure explorer to connect to specific Blockchain network using given crypto materials
-	network_crypto_base_path=$(pwd)/../simpleE2E/basic-network/crypto-config
+	network_crypto_base_path=$(pwd)/../basic-network/crypto-config
 
 	# local vnet configuration
 
